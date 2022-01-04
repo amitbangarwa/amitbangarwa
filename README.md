@@ -6,7 +6,7 @@
 
 🏡 [website][website] **|** 
 👔 [linkedin][linkedin] **|**
-[codepen][codepen]
+👨‍💻 [codepen][codepen]
 
 [website]: https://amitbangarwa.com
 [linkedin]: https://linkedin.com/in/amitbangarwa
