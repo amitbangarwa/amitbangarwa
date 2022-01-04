@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Next.js, Web3.0
 
 🏡 [website][website] **|** 
-👔 [linkedin][linkedin]
+👔 [linkedin][linkedin] **|**
 [codepen][codepen]
 
 [website]: https://amitbangarwa.com
