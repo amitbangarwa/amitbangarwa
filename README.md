@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on PERN stack
-- 🌱 I’m currently learning Next.js, Web3.0
+- 🌱 I’m currently learning ThreeJs, GSAP
 
 🏡 [website][website] **|** 
 👔 [linkedin][linkedin] **|**
